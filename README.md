@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @Eshani007
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in ...coding, freelancing, etc
+- 🌱 I’m currently learning ...python and java, 'cause I already know c and c++
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Eshani007/Eshani007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me... On github
